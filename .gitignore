@@ -1,0 +1,21 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Common build artifacts (not used here, but safe to ignore)
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# Environment files
+.env
+.env.local
